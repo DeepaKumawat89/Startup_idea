@@ -4,3 +4,7 @@ PyJWT
 pymongo
 dnspython
 gunicorn
+fastapi
+uvicorn
+firebase-admin
+pydantic
